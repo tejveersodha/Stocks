@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stockautomation-408107",
+  "private_key_id": "5d32eaf884c14bbd8cd62acde22270729af590cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRSfh92T91ulum\nb80Vu5cWPONJ6d5gP0fq8YDmachtsrzf6UiF2RxJQ4whfWkHzAbw7xVfxZX4TW3G\njquzQ7tmMXgX+pgcvi3OxCUlTaM1w6m+eepAwP70Lgf9WTvUIzI0QnAQpMjri6ig\nYWS24wiAivuoE9+VQBGWpqnjtdspHepGTsSaQX4L+7GjMvBrO8G39bdvhKS8WUE5\nHta+SMmYDshTLS6UD5r/Gg719FTBcGHPQNId3nhDa2YAXpoR4HPdaPmCa8tjXAy6\n7/f0LUw0Jn99HsvmDAVhHXKVMO6uJs0hjg7PJN56fGwnPdzECVvuwnxa3MgVQgnq\nM/I0rb//AgMBAAECggEAJgmduyUTjjj6IbsHkHcKeVH7l7BY/g3TQFl2C90KEl5H\nQMAMsq5Cz5OVrnbs9pOeBZoymF5cgyOSZ/eWUFqdR4YQEQcUqAHKcGW96+RFpJ/T\nYwD8KXPdzAP5J4UjOsj0LeZu/IyH5dMslMCq447Q/QZmGH0LfkHF2RFNTUahWEQN\nw+U/xJkNO22+aziJdPdtvv5TkC2kf2VN1KeG5eivEP8BiW9kNfWJhDriQcqqDiLl\nEU5v+bzB7enOOiSwcDPGCXcRFPk/DhSaPyiBO8/I71PUUJiztA74+/fvcCMKHn/p\nvu95MgovXVc7JMjp2b5e2cZCD9y/IY7l6mwLCSICMQKBgQDBDHEI5lPwr91dNyR8\nqNsFEBDO53SS1UXECOpgB+UIko6FBmC78CkxyZYFDAl/3RLNrie8GNB6JDk6vNxC\n9sqywUZbUR+bo763eaS4YbsNoFPAPD+Kw9nRaYqQm90MP+17O8pKRIVD3u+0Lz/7\nh4Ds8x5xd9JXEi9lJaPazaWRZQKBgQDAqpZzIiz3IvWwhlTdfawaWR1bnjdUZrTB\n8OS1DqndObDOHEtVhpnCUNBNpCMNk6IiOdAqwZMlJJncqkP3IEYm2MyM4nRhiDxv\nyWJmCA/ColBwlodH3bt7kd1A7LpaL8SFcuvIGYm1xPWKV7f0WrK8+75dNujqfMLb\nxg40Y8OHkwKBgHS7njpAdK+M2HF+X5zVyiKklVVXliEXv6kLrxXEkFT/shh0Q9hB\nH9fQStvgbHoZ5z3iOnq+EopZDxYaj6Iac3Vl87JSOqe1eySc9OLdjetucFZE2DOD\nvFmp1TUeWqsGmQa0n90K0/63dwDgtXLWfDpLxLPePZ2TDH/AI/Wx9pUVAoGBAKBZ\nWX3ZI7NL1U9lfZwZy/Lh2B04QLRuBmKjKrXFznngWdYwlkJIFBA1UihMQyA5jucN\nVsM++Eghfiy5SHeU1M3gAd3/Wv0RdbtT0CE69GL41BngLhcR48ekTpCKdU46E0U9\nsB6JoqM1mWXaO6+TDM9cdcL+wDroOwTOgWP44/MhAoGBAKtcv/gASotmomfV+nmk\n8t1TCFnfUYOaGabGIN1kjeI8N/qDG5OMFbTlrbKQK5TGYssr+MaRQLjRF5NAl+XH\ngRAwO3ZM0Z+bsZX9TXG4yN70u19b1HE20hbMRTocDqVSkxPqc3D4rjxce90H7q4E\nYCmlHNXKMnylbYdJGZALXd4t\n-----END PRIVATE KEY-----\n",
+  "client_email": "stockautomationserviceaccount@stockautomation-408107.iam.gserviceaccount.com",
+  "client_id": "117553250592935757835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stockautomationserviceaccount%40stockautomation-408107.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
